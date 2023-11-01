@@ -11,6 +11,10 @@ Welcome to my world of code, creativity, and everything in between. I'm delighte
 - 🌱 Currently, I'm diving deep into AI, ML and Python to create amazing things.
 - 💼 I'm also looking out for internships or part-time jobs in programming. If you know any, ping me through any of the below handles. It would be a great!!
 
+## Currently doing
+- ### LeetCode Problems:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VikkiezDev&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ## Let's Connect
 
 - 📧 Feel free to drop me a line anytime at vigneshndrwork23@gmail.com Let's have a chat!
