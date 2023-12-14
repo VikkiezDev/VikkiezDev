@@ -7,7 +7,6 @@ Welcome to my world of code, creativity, and everything in between. I'm delighte
 - 🚀 I'm a Astronomy enthusiast, always exploring new horizons and pushing boundaries.
 - 🎓 I hold a Bachelor's degree in Information Technology, but my real education happens every day.
 - 💡 Soon will be having my Master's degree in my bag!
-- 👨‍💻 By day, I'm a student at SIES College of Arts, Science and Commerce By night, I'm a coding ninja.
 - 🌱 Currently, I'm diving deep into AI, ML and Python to create amazing things.
 - 💼 I'm also looking out for internships or part-time jobs in programming. If you know any, ping me through any of the below handles. It would be a great!!
 
