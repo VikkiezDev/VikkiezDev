@@ -1,6 +1,6 @@
 # Hey there, I'm Vignesh Nadar! 👋
 
-A curious learner, who likes to **code**!.
+A curious learner, who likes to **code** !!
 
 ## About Me
 
